@@ -1,4 +1,4 @@
-# 3DS-3D-Glasses
+# 3DS 3D Glasses App
 Use your 3DS as a pair of 3D glasses. It kind of works.
 
 ## Building
