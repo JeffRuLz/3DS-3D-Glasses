@@ -1,6 +1,8 @@
 # 3DS 3D Glasses App
 Use your 3DS as a pair of 3D glasses. It kind of works.
 
+It should go without saying but this will not work on a 2DS.
+
 ## Building
 - Install [DevkitPro](https://devkitpro.org/wiki/Getting_Started) with devkitARM and libctru.
 - Install [bannertool](https://github.com/Steveice10/bannertool/releases).
